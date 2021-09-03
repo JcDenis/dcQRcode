@@ -1,8 +1,13 @@
-todo:
- - Add date selector on ICAL format
- - Add check on forms form
- - Add wiki synthax or something like that
- - Add missing options on settings page (margin,prefix...)
+xxxx.xx.xx - todo
+- [ ] fix code for php 7.3+ php 8.0
+- [ ] fix code style (PSR)
+- [ ] fix Dotclear 2.19 compatibility
+- [ ] add date selector on ICAL format
+- [ ] fix admin pages
+- [ ] add internal library to generate code
+- [ ] remove external API call (current Google API is dead as always)
+- [ ] add wiki synthax or something like that
+- [ ] add missing options on settings page (margin,prefix...)
 
 2011.08.10
  * Added some formats
